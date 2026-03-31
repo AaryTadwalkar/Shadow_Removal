@@ -82,3 +82,7 @@ Paper: https://arxiv.org/pdf/2302.01650.pdf
 
 **Key Result**: ShadowFormer achieves **PSNR 32.21 dB, SSIM 0.968** on ISTD dataset  
 (vs classical methods: ~27 dB PSNR)
+
+# Shadow_Removal
+course project for Image Processing
+
